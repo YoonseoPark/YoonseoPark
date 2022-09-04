@@ -1,1 +1,1 @@
-[![YoonseoPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![YoonseoPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonseoPark)](https://github.com/YoonseoPark/github-readme-stats)
